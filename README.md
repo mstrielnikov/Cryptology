@@ -32,7 +32,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Asecurity: scalar inverse on Ed25519 (Edwards)](https://asecuritysite.com/rust/rust_ed25519inv) - Rust
 * [Asecurity: ElGamal Protocol with Ed25519](https://asecuritysite.com/kryptology/elgamal01) - GoLang
 * [Asecurity: Distributed key generation (DKG) using FROST threshold Schnorr signature protocol in Kryptology
-](https://asecuritysite.com/kryptology/dkg)
+](https://asecuritysite.com/kryptology/dkg) - GoLang
 
 # Digital Signatures
 * [Cryptowiki: Digital Signature basics and application](http://cryptowiki.net/index.php?title=Слепая_электронная_подпись_и_ее_применения)
@@ -46,7 +46,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Medium: BLS signatures](https://medium.com/asecuritysite-when-bob-met-alice/bls-signatures-fast-efficient-and-short-checked-with-the-magic-of-crypto-pairing-c63d17a38278) - GoLang
 * [Asecurity: PBC sample with Kryptology framework](https://asecuritysite.com/kryptology/pairing) - GoLang
 * [Asecurity: Encrypted search using crypto pairing with MIRACL](https://asecuritysite.com/rust/rust_miracl02) - Rust
-* [Asecurity: Searching for Encrypted Data with Identity Based Encryption (IBE)](https://asecuritysite.com/pairing/mir_ibe_search)
+* [Asecurity: Searching for Encrypted Data with Identity Based Encryption (IBE)](https://asecuritysite.com/pairing/mir_ibe_search) - GoLang
 * [An Introduction to Pairing-Based Cryptography](https://www.math.uwaterloo.ca/~ajmeneze/publications/pairings.pdf) - Whitepaper
 
 # Homomorphic Encryption
@@ -78,7 +78,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Medium: HVZK (Honest Verifier Zero Knowledge) For RSA and Using Kryptology](https://medium.com/asecuritysite-when-bob-met-alice/hvzk-honest-verifier-zero-knowledge-for-rsa-and-using-kryptology-e0f1aa86c24e)
 
 # Hashes and One-Way Functions
-* [Medium: Length extension attack](https://billatnapier.medium.com/the-weaknesses-of-md5-sha1-and-sha-256-the-length-extension-attack-4e5902fb4ae4?sk=682294f4ce1bcd673997e0c546da2cc0)
+* [Medium: Length extension attack](https://billatnapier.medium.com/the-weaknesses-of-md5-sha1-and-sha-256-the-length-extension-attack-4e5902fb4ae4?sk=682294f4ce1bcd673997e0c546da2cc0) - Python
 * [Medium: Key Wrapping](https://medium.com/asecuritysite-when-bob-met-alice/how-do-we-protect-an-encryption-key-meet-key-wrapping-25a0676a73c6) - GoLang
 
 # Symmetric Encryption Protocols (AEAD, HMAC and derivatives)
@@ -90,7 +90,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 # Symmetric Encryprtion Protocols
 * [Soatok blog: Symmetric encryption](https://soatok.blog/2020/07/12/comparison-of-symmetric-encryption-methods/)
 * [Asecurity: ChaCha20](https://asecuritysite.com/encryption/go_chacha) for [Golang](https://pkg.go.dev/golang.org/x/crypto/chacha20poly1305)
-* [Medium: Rust implementation of ChaCha20 extended](https://medium.com/asecuritysite-when-bob-met-alice/96-bit-nonces-too-small-try-xchacha20-and-rust-b773bb8c9bff)
+* [Medium: Rust implementation of ChaCha20 extended](https://medium.com/asecuritysite-when-bob-met-alice/96-bit-nonces-too-small-try-xchacha20-and-rust-b773bb8c9bff) - Rust
 
 # End-to-end (E2E) security
 * [Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy)
