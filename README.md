@@ -1,8 +1,10 @@
 # Cryptography
  
+# Closely related to my Applied Math [topics][https://github.com/mstrielnikov/Math] (Computer Math and Cryptography)
 
 # Ellyptical Curves Cryptography (Classical ECC)
-* [Technical Guideline BSI TR-03111](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/TechGuidelines/TR03111/BSI-TR-03111_V-2-1_pdf.pdf?__blob=publicationFile&v=1) - ECC
+* [Wikipedia: Elliptic Crypography Overwiew](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
+* [Technical Guideline BSI TR-03111](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/TechGuidelines/TR03111/BSI-TR-03111_V-2-1_pdf.pdf?__blob=publicationFile&v=1) - Whitepapers
 * [Habr: Popular intro in ECC](https://habr.com/ru/post/335906/)
 * [Medium: MOV-attack on ECC](https://medium.com/asecuritysite-when-bob-met-alice/cracking-elliptic-curves-with-the-mov-attack-b5ea00dcc939)
 * [Choose safe curves for application](https://safecurves.cr.yp.to/) - Very Usable Application
@@ -62,6 +64,7 @@
 * [RSA CTF tool](https://github.com/Ganapati/RsaCtfTool)
 * [Medium: Length extension attack](https://billatnapier.medium.com/the-weaknesses-of-md5-sha1-and-sha-256-the-length-extension-attack-4e5902fb4ae4?sk=682294f4ce1bcd673997e0c546da2cc0)
 * [Habr: GOST like protocol example](https://habr.com/ru/post/452200/)
+* [RFC 7748: Elliptic Curves for Security](https://tools.ietf.org/html/rfc7748)
 
 # Books
 * [Infosec](https://github.com/vlsergey/infosec) - Books & lectures
