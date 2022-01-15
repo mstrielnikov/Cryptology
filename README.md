@@ -14,12 +14,21 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [HAL archives: Edward's curves](https://hal.archives-ouvertes.fr/hal-01942759/document) - Whitepapers
 * [Things that use Curve25519](https://ianix.com/pub/curve25519-deployment.html)
 
-# Digital Signatures
-* [Cryptowiki: Digital Signature basics and application](http://cryptowiki.net/index.php?title=Слепая_электронная_подпись_и_ее_применения)
-
 # Homomorphic Encryption
 * [Fully Homomorphic Encryption over the Integers](https://eprint.iacr.org/2009/616.pdf)
 * [IBM: Homomorphic encryption tool for Linux](https://habr.com/ru/company/dcmiran/blog/513388/) - Codebase
+
+# Digital Signatures
+* [Cryptowiki: Digital Signature basics and application](http://cryptowiki.net/index.php?title=Слепая_электронная_подпись_и_ее_применения)
+
+# Secret sharing protocols
+* [Wikipedia: Shamir secret sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
+
+# Zero-knowledge protocols
+
+# Proof of work
+
+# Proof of state
 
 # Post quantum Cryptography
 * [Medium: General Overwiew](https://billatnapier.medium.com/post-quantum-lattice-polynomials-and-modulo-afaa9caf8aa5)
