@@ -48,6 +48,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 # TLS
 [TProgger: TLS](https://tproger.ru/articles/tls-handshake-explained/)
 [Xaker: OpenSSL and OpenSSH advanced usage](https://xakep.ru/2012/10/29/hardcore-openssh-and-openssh/) - Guide
+[TLS 1.3 Some explanatios](https://tls.dxdt.ru/protocol-1.3.html)
 
 # I2P
 * [Habr: I2P](https://habr.com/ru/company/itsoft/blog/552072/?utm_source=telegram&utm_medium=social&utm_campaign=/ru/company/itsoft/blog/552072/)
