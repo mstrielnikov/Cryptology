@@ -1,6 +1,6 @@
 # Cryptography
  
-# Closely related to my Applied Math [topics][https://github.com/mstrielnikov/Math] (Computer Math and Cryptography)
+# Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math) (Computer Math and Cryptography)
 
 # Ellyptical Curves Cryptography (Classical ECC)
 * [Wikipedia: Elliptic Crypography Overwiew](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
