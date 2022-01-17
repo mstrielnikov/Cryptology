@@ -26,8 +26,8 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Edward's curves research](https://core.ac.uk/download/pdf/146445895.pdf) - Monography
 * [HAL archives: Edward's curves](https://hal.archives-ouvertes.fr/hal-01942759/document) - Whitepaper
 * [Things that use Curve25519](https://ianix.com/pub/curve25519-deployment.html)
-* [Medium: Usage of Ed25519 (crate Crypto)](https://medium.com/asecuritysite-when-bob-met-alice/curve-25519-and-rust-4d3a3e379887) - Rust
 * [Medium: Ed25519 and Ed448](https://medium.com/asecuritysite-when-bob-met-alice/towards-web3-ed25519-ed448-and-ed2551-dilithium-32d36b06f499) - GoLang
+* [Medium: Usage of Ed25519 (crate Crypto)](https://medium.com/asecuritysite-when-bob-met-alice/curve-25519-and-rust-4d3a3e379887) - Rust
 * [Asecurity: Usage of Ed25519 (author's crate)](https://asecuritysite.com/rust/rust_ed25519) - Rust
 * [Asecurity: Usage of curve25519 (multi languages programmatic implementations)](https://asecuritysite.com/curve25519)
 * [Asecurity: Schnorr signature](https://asecuritysite.com/rust/rust_schnorr) - Rust
@@ -86,13 +86,13 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Medium: Length extension attack](https://billatnapier.medium.com/the-weaknesses-of-md5-sha1-and-sha-256-the-length-extension-attack-4e5902fb4ae4?sk=682294f4ce1bcd673997e0c546da2cc0) - Python
 * [Medium: Key Wrapping](https://medium.com/asecuritysite-when-bob-met-alice/how-do-we-protect-an-encryption-key-meet-key-wrapping-25a0676a73c6) - GoLang
 
-## Symmetric Encryption Protocols (AEAD, HMAC and derivatives)
+## Symmetric Encryption Protocols (AEAD, HMAC, MAC)
 * [AEAD](https://www.engineering.iastate.edu/~daji/seminar/papers/R02.ACMCCS.pdf) - White papers
 * [Medium: Poly1305-ChaCha20](https://medium.com/asecuritysite-when-bob-met-alice/chacha20-and-rust-353c2f5b363) - Rust
 * [Medium: HMAC-SHA256](https://medium.com/asecuritysite-when-bob-met-alice/hkdf-sha256-and-rust-fe23abde28f0) - Rust
 * [Medium: AEAD sample and intro](https://medium.com/asecuritysite-when-bob-met-alice/so-what-is-aead-and-why-is-it-so-important-for-encryption-8e2bf16eed6f) - Rust
 
-## Symmetric Encryprtion Protocols
+## Symmetric Ciphers
 * [Soatok blog: Symmetric encryption](https://soatok.blog/2020/07/12/comparison-of-symmetric-encryption-methods/)
 * [Asecurity: ChaCha20](https://asecuritysite.com/encryption/go_chacha) for [Golang](https://pkg.go.dev/golang.org/x/crypto/chacha20poly1305)
 * [Medium: Rust implementation of ChaCha20 extended](https://medium.com/asecuritysite-when-bob-met-alice/96-bit-nonces-too-small-try-xchacha20-and-rust-b773bb8c9bff) - Rust
