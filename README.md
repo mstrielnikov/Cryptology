@@ -86,6 +86,9 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Medium: Length extension attack](https://billatnapier.medium.com/the-weaknesses-of-md5-sha1-and-sha-256-the-length-extension-attack-4e5902fb4ae4?sk=682294f4ce1bcd673997e0c546da2cc0) - Python
 * [Medium: Key Wrapping](https://medium.com/asecuritysite-when-bob-met-alice/how-do-we-protect-an-encryption-key-meet-key-wrapping-25a0676a73c6) - GoLang
 
+## Pseudo Random Generators
+* [Medium: Verifiable Oblivious Pseudorandom Functions](https://medium.com/asecuritysite-when-bob-met-alice/we-give-away-too-many-of-our-digital-secrets-heres-verifiable-oblivious-pseudorandom-functions-13ba5f78380f?source=friends_link&sk=27d57da266c7fb50d5c2292fe1d2fa89)
+
 ## Symmetric Encryption Protocols (AEAD, HMAC, MAC)
 * [AEAD](https://www.engineering.iastate.edu/~daji/seminar/papers/R02.ACMCCS.pdf) - White papers
 * [Medium: Poly1305-ChaCha20](https://medium.com/asecuritysite-when-bob-met-alice/chacha20-and-rust-353c2f5b363) - Rust
@@ -128,6 +131,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [OWASP: Cryptographic failures](https://owasp.org/Top10/A02_2021-Cryptographic_Failures/)
 * [Infosec](https://github.com/vlsergey/infosec) - Books & lectures
 * [Practical Cryptography](https://cryptobook.nakov.com)
+* [GitHub: Useful cryptographic samples](https://github.com/gtank/cryptopasta) - GoLang
 
 ## Scripts
 * [Eax blog: Practical cryptography and large arifmetics examples](https://eax.me/elliptic-curves-crypto/)
