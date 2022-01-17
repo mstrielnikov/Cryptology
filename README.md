@@ -39,8 +39,9 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 ## Digital Signatures
 * [Cryptowiki: Digital Signature basics and application](http://cryptowiki.net/index.php?title=Слепая_электронная_подпись_и_ее_применения)
 
-## PAKE
-* [Asecurity: OPAQUE protocol](https://asecuritysite.com/encryption/op)
+## Password authenticated key exchange (PAKE)
+* [Asecurity: OPAQUE protocol](https://asecuritysite.com/encryption/op) - GoLang
+* [Asecurity: Encode hash on elliptic curve](https://asecuritysite.com/circl/circl_hashto) - GoLang
 
 ## Pairing based cryptography (PBC)
 * [An Introduction to Pairing-Based Cryptography](https://www.math.uwaterloo.ca/~ajmeneze/publications/pairings.pdf) - Whitepaper
