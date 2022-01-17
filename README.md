@@ -143,4 +143,3 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 ## Books
 * [Introduction to Elliptic Curves and Modular Forms](http://www.ega-math.narod.ru/Books/Koblitz.htm)
 * [Schnorr](http://apmi.bsu.by/assets/files/agievich/schnorr.pdf)
-
