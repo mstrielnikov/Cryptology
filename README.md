@@ -65,12 +65,16 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Wikipedia: List of Post Quantum Cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography)
 * [Wikipedia: Lattice-based cryptography](https://en.wikipedia.org/wiki/Lattice-based_cryptography)
 * [Medium: General Overwiew](https://billatnapier.medium.com/post-quantum-lattice-polynomials-and-modulo-afaa9caf8aa5)
+* [Medium: Code-based cryptography](https://medium.com/asecuritysite-when-bob-met-alice/what-goes-around-comes-around-again-welcome-code-based-cryptography-a0098e372c8)
+* [Medium: PQC algoritms comparision](https://medium.com/asecuritysite-when-bob-met-alice/the-league-table-of-post-quantum-cryptography-pqc-a752cc324eb9?sk=2e8501310534648a60c8afbc5e2c96d6)
 * [Habr: NIST competitors as a Post Quantum standards](https://habr.com/ru/post/512410/)
 * [Asecurity: NTRU](https://asecuritysite.com/encryption/ntru_key)
 * [Asecurity: Multivariative cryptography](https://asecuritysite.com/encryption/multiv2)
 * [Asecurity: SIKE (Supersingular Isogeny Key Encapsulation)](https://asecuritysite.com/encryption/sike)
 * [Asecurity: SIKE (Supersingular Isogeny Key Encapsulation) for KEM](https://asecuritysite.com/circl/circl_sike)
 * [Asecurity: Kyber and SIKE PQC Key Exchange Mechanism (KEM) with CIRCL](https://asecuritysite.com/circl/circl_kyber)
+* [Asecurity: PQC key exchange protocols speed test](https://asecuritysite.com/pqc/pqc_kem)
+ 
 
 ## Quantum Cryptography
 * [Habr: Quantum Hashing](https://habr.com/ru/company/yandex/blog/312072/)
@@ -87,15 +91,20 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 ## Hashes and One-Way Functions
 * [Medium: Length extension attack](https://billatnapier.medium.com/the-weaknesses-of-md5-sha1-and-sha-256-the-length-extension-attack-4e5902fb4ae4?sk=682294f4ce1bcd673997e0c546da2cc0) - Python
 * [Medium: Key Wrapping](https://medium.com/asecuritysite-when-bob-met-alice/how-do-we-protect-an-encryption-key-meet-key-wrapping-25a0676a73c6) - GoLang
+* [Medium: Key-based hashing](https://medium.com/asecuritysite-when-bob-met-alice/key-based-hashing-2a45e43bb014?sk=31818a6c44bc8c2ecbe84688a836a551) - Python
+* [Medium: Homomorphic hashes](https://medium.com/asecuritysite-when-bob-met-alice/homomophic-hashes-efficient-trust-and-avoiding-complex-hashing-operations-1b288a17f7b1?sk=32b31b7740464d5c865092e955ba5e2a)
+* [Medium: The fastest cryptographic hashe)[https://medium.com/asecuritysite-when-bob-met-alice/whats-the-fastest-crypto-hash-around-and-can-i-generate-an-encryption-key-and-a-mac-30457b9aa164?sk=9102885be8b38088bc32286060a5f35e]
 
 ## Pseudo Random Generators
 * [Medium: Verifiable Oblivious Pseudorandom Functions](https://medium.com/asecuritysite-when-bob-met-alice/we-give-away-too-many-of-our-digital-secrets-heres-verifiable-oblivious-pseudorandom-functions-13ba5f78380f?source=friends_link&sk=27d57da266c7fb50d5c2292fe1d2fa89)
+* [Medium: Random numbers](https://medium.com/asecuritysite-when-bob-met-alice/a-rust-key-at-the-core-of-cybersecurity-is-random-numbers-d741d35ee56c) - Rust
 
 ## Symmetric Encryption Protocols (AEAD, HMAC, MAC)
 * [AEAD](https://www.engineering.iastate.edu/~daji/seminar/papers/R02.ACMCCS.pdf) - White papers
 * [Medium: Poly1305-ChaCha20](https://medium.com/asecuritysite-when-bob-met-alice/chacha20-and-rust-353c2f5b363) - Rust
 * [Medium: HMAC-SHA256](https://medium.com/asecuritysite-when-bob-met-alice/hkdf-sha256-and-rust-fe23abde28f0) - Rust
 * [Medium: AEAD sample and intro](https://medium.com/asecuritysite-when-bob-met-alice/so-what-is-aead-and-why-is-it-so-important-for-encryption-8e2bf16eed6f) - Rust
+* [Medium: CMAC](https://medium.com/asecuritysite-when-bob-met-alice/i-know-hmac-but-whats-cmac-b859799af732?sk=04c73cfb2c88d2e0f11c770697f405a9)
 
 ## Symmetric Ciphers
 * [Soatok blog: Symmetric encryption](https://soatok.blog/2020/07/12/comparison-of-symmetric-encryption-methods/)
