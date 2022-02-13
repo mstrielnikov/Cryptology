@@ -9,6 +9,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Asecurity: RSA implementation](https://asecuritysite.com/rust/rsa02) - Rust
 * [Asecurity: RSA implementation (with big integers)](https://asecuritysite.com/rust/rsa01) - Rust
 * [Asecurity: integer factorization](https://asecuritysite.com/rust/factors?n=653764321953243) and [sample](https://asecuritysite.com/encryption/rsac) - Rust
+* [Asecurity: Crack RSA with Cjienese reminder theorem](https://asecuritysite.com/cracking/rsa_crt) - Python 
 
 ## Ellyptical Curves Cryptography (ECC)
 * [Choose safe curves for application](https://safecurves.cr.yp.to/) - Very Usable Application
