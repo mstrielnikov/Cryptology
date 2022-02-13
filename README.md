@@ -35,6 +35,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Asecurity: scalar inverse on Ed25519 (Edwards)](https://asecuritysite.com/rust/rust_ed25519inv) - Rust
 * [Asecurity: ElGamal Protocol with Ed25519](https://asecuritysite.com/kryptology/elgamal01) - GoLang
 * [Asecurity: Distributed key generation (DKG) using FROST threshold Schnorr signature protocol in Kryptology](https://asecuritysite.com/kryptology/dkg) - GoLang
+* [Asecurity: recrypt - lib for proxy encryption with Ed25519](https://asecuritysite.com/rust/rust_transform) - Rust
 
 ## Digital Signatures
 * [Cryptowiki: Digital Signature basics and application](http://cryptowiki.net/index.php?title=Слепая_электронная_подпись_и_ее_применения)
