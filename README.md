@@ -94,7 +94,7 @@ Closely related to my Applied Math [topics](https://github.com/mstrielnikov/Math
 * [Medium: Key Wrapping](https://medium.com/asecuritysite-when-bob-met-alice/how-do-we-protect-an-encryption-key-meet-key-wrapping-25a0676a73c6) - GoLang
 * [Medium: Key-based hashing](https://medium.com/asecuritysite-when-bob-met-alice/key-based-hashing-2a45e43bb014?sk=31818a6c44bc8c2ecbe84688a836a551) - Python
 * [Medium: Homomorphic hashes](https://medium.com/asecuritysite-when-bob-met-alice/homomophic-hashes-efficient-trust-and-avoiding-complex-hashing-operations-1b288a17f7b1?sk=32b31b7740464d5c865092e955ba5e2a)
-* [Medium: The fastest cryptographic hashe)[https://medium.com/asecuritysite-when-bob-met-alice/whats-the-fastest-crypto-hash-around-and-can-i-generate-an-encryption-key-and-a-mac-30457b9aa164?sk=9102885be8b38088bc32286060a5f35e]
+* [Medium: The fastest cryptographic hashe](https://medium.com/asecuritysite-when-bob-met-alice/whats-the-fastest-crypto-hash-around-and-can-i-generate-an-encryption-key-and-a-mac-30457b9aa164?sk=9102885be8b38088bc32286060a5f35e)
 
 ## Pseudo Random Generators
 * [Medium: Verifiable Oblivious Pseudorandom Functions](https://medium.com/asecuritysite-when-bob-met-alice/we-give-away-too-many-of-our-digital-secrets-heres-verifiable-oblivious-pseudorandom-functions-13ba5f78380f?source=friends_link&sk=27d57da266c7fb50d5c2292fe1d2fa89)
