@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "8ba6f0c1b84cfbb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d835f09dda339673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3048cd81de8c3bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blockchain/filecoin/IPFS privacy enforced extension for implementing storage systems with confidentiality guarantees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62b02920415a2d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ef576cc874d275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79077e07014bf5d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0b99c466fa46a27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c8e6ec607290c20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09269653e5cf2949",
+    "type": "split",
+    "children": [
+      {
+        "id": "279827b56b22e590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9594b6dacfc41bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blockchain/filecoin/IPFS privacy enforced extension for implementing storage systems with confidentiality guarantees.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e412fc92e5b793c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blockchain/filecoin/IPFS privacy enforced extension for implementing storage systems with confidentiality guarantees.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c32dbb8a966e41a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39b770fe3064d383",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blockchain/filecoin/IPFS privacy enforced extension for implementing storage systems with confidentiality guarantees.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3048cd81de8c3bf2",
+  "lastOpenFiles": [
+    "blockchain/filecoin/(EN) Privacy enforced extension for IPFS with optimized discovery of encrypted content.md",
+    "blockchain/monero",
+    "blockchain/zcash",
+    "blockchain/bitcoin",
+    "blockchain/filecoin/IPFS privacy enforced extension for implementing storage systems with confidentiality guarantees.md",
+    "blockchain/filecoin",
+    "blockchain/ton",
+    "blockchain/etherum",
+    "blockchain/solana",
+    "blockchain/UntitledUntitled.md",
+    "blockchain/README.md",
+    "blockchain/filecoin_research"
+  ]
+}
